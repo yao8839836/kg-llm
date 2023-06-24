@@ -1,9 +1,6 @@
 # KG-LLM
 
-The implementation of KG-LLM in our paper: 
-
-Exploring Large Language Models for Knowledge Graph Completion
-
+The implementation of KG-LLM in our paper.
 
 ## Installing requirement packages
 
