@@ -52,13 +52,13 @@ Change the --model_name_or_path from models/yago-rel-chatglm-6b/checkpoint-10000
 ### 3. Raw LLaMA inference
 
 ```shell
-python test_llama_fb13。py
+python test_llama_fb13.py
 ```
 
 ### 4. Generate input files for LLMs
  
 Please see instructions_XX.py, human_FB13_data.py and human_YAGO3_data.py.
 
-### 6. Generate input files for LLMs
+### 6. Evaluation
 
 Please see eval_XX_ft.py, human_FB13_eval.py, human_YAGO3_eval_XX.py
