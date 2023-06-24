@@ -15,7 +15,7 @@ pip install -r requirements_chatglm.txt
 
 (1) The four KGs we used as well as entity and relation descriptions are in ./data.
 
-(2) The input files for LLMs are in each folder of ./data, see train_instructions_llama.json and train_instructions_glm.json as examples. 
+(2) The input files for LLMs are also in each folder of ./data, see train_instructions_llama.json and train_instructions_glm.json as examples. 
 
 (3) The output files of our models are also in each folder of ./data, see pred_instructions_llama13b.csv and generated_predictions.txt (from ChatGLM-6B) as examples.
 
@@ -59,6 +59,6 @@ python test_llama_fb13.py
  
 Please see instructions_XX.py, human_FB13_data.py and human_YAGO3_data.py.
 
-### 6. Evaluation
+### 5. Evaluation
 
 Please see eval_XX_ft.py, human_FB13_eval.py, human_YAGO3_eval_XX.py

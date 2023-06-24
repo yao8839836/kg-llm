@@ -12,7 +12,7 @@ from transformers import LlamaTokenizer, LlamaForCausalLM, GenerationConfig
 tokenizer = LlamaTokenizer.from_pretrained("models/LLaMA-HF/tokenizer/")
 LOAD_8BIT = False
 BASE_MODEL = "models/LLaMA-HF/llama-13b"
-LORA_WEIGHTS = "/cephfs/group/taiji-ieg-bp-cdp/dryao/ft_local/llama-13b-lora-wn11"
+LORA_WEIGHTS = "models/llama-13b-lora-wn11"
 if torch.cuda.is_available():
     device = "cuda"
 else:
