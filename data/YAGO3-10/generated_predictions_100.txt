@@ -1,0 +1,100 @@
+{"labels": "FK Sarajevo", "predict": "FK Željezničar Sarajevo"}
+{"labels": "FC Spartak Moscow", "predict": "FC Shakhtar-3 Donetsk"}
+{"labels": "Mossley A.F.C.", "predict": "Southend United F.C."}
+{"labels": "SV Wehen Wiesbaden", "predict": "FC Dynamo Moscow"}
+{"labels": "male", "predict": "male"}
+{"labels": "FK Banga Gargždai", "predict": "FC Khimki"}
+{"labels": "Frome Town F.C.", "predict": "Preston North End F.C."}
+{"labels": "Lola Montès", "predict": "The Big Black (1989 film)"}
+{"labels": "Aris F.C. (Thessaloniki)", "predict": "Clube Atlético Mineiro"}
+{"labels": "Monarcas Morelia", "predict": "Club Atlético Vélez Sarsfield"}
+{"labels": "Newcastle United Jets F.C.", "predict": "Leeds United A.F.C."}
+{"labels": "Norway national under-21 football team", "predict": "PFC Spartak Nalchik"}
+{"labels": "Western Australia", "predict": "Western Australia"}
+{"labels": "Cruzeiro E.C.", "predict": "Club Atlético Independiente"}
+{"labels": "Jong Ajax", "predict": "Club Atlético Tigre"}
+{"labels": "Western Australia", "predict": "Northern Territory"}
+{"labels": "Swansea City A.F.C.", "predict": "Bristol City F.C."}
+{"labels": "Switzerland national football team", "predict": "Club Atlético River Plate"}
+{"labels": "Standard Liège", "predict": "FK Napoli"}
+{"labels": "Kerala Sahitya Akademi Award", "predict": "Order of the Black Eagle"}
+{"labels": "R. Charleroi S.C.", "predict": "E.C. Nantes"}
+{"labels": "FC Petrotrest Saint Petersburg", "predict": "FC Dynamo Kyiv"}
+{"labels": "Eintracht Braunschweig", "predict": "FC Khimki"}
+{"labels": "Iraklis Psachna F.C.", "predict": "A.C.D. Patras 1919"}
+{"labels": "male", "predict": "male"}
+{"labels": "Soproni VSE", "predict": "FK Tatra"}
+{"labels": "Millwall F.C.", "predict": "New York Red Bulls"}
+{"labels": "Crawley Town F.C.", "predict": "England national under-19 football team"}
+{"labels": "Lic. Adolfo López Mateos International Airport", "predict": "Dallas/问题时"}
+{"labels": "PFC CSKA Moscow", "predict": "FC Dinamo București"}
+{"labels": "male", "predict": "male"}
+{"labels": "VfL Bochum", "predict": "FC Spartak Moscow"}
+{"labels": "Airdrieonians F.C. (1878)", "predict": "Leeds United A.F.C."}
+{"labels": "Lechia Gdańsk", "predict": "FK Željezničar Sarajevo"}
+{"labels": "FC Almaty", "predict": "FC Zbrojovkabrτερok"}
+{"labels": "Carpi FC 1909", "predict": "Clube Atlético Mineiro"}
+{"labels": "Calcio Como", "predict": "C.D. Atlético Paranaense"}
+{"labels": "Singhtarua F.C.", "predict": "A.C. Chievo Verona"}
+{"labels": "Robert Bloch", "predict": "Paul S. Lander"}
+{"labels": "Maccabi Tel Aviv F.C.", "predict": "A.C. Milan"}
+{"labels": "Lijiang Sanyi Airport", "predict": "China Chinalangu International Airport"}
+{"labels": "Love Is All There Is", "predict": "The New World (1995 film)"}
+{"labels": "Virovitica-Podravina County", "predict": "Slovenia"}
+{"labels": "FC Kaisar", "predict": "FC Khimki"}
+{"labels": "Australia national under-23 association football team", "predict": "Manchester City F.C."}
+{"labels": "West Virginia", "predict": "United States"}
+{"labels": "Exeter City F.C.", "predict": "Bristol City F.C."}
+{"labels": "F.C. Metz", "predict": "FC St. Pauli"}
+{"labels": "de/Tulsa Oilers (Original)", "predict": "Bristol Rovers F.C."}
+{"labels": "male", "predict": "male"}
+{"labels": "Australia national under-20 association football team", "predict": "Sheffield United F.C."}
+{"labels": "A Life Less Ordinary", "predict": "The Denial (1985 film)"}
+{"labels": "Frankfurt", "predict": "S顶礼land"}
+{"labels": "Chicago Sting", "predict": "France national under-19 football team"}
+{"labels": "Denmark national under-19 football team", "predict": "A.C.D. Juventud de Losinos"}
+{"labels": "Pathram", "predict": "Thalahalaum Thalahalaum"}
+{"labels": "Standard Liège", "predict": "FK Napoli"}
+{"labels": "Olympique Noisy-le-Sec", "predict": "FC Nantes"}
+{"labels": "RCD Mallorca", "predict": "C.D. Atlético Clube de Mozambique"}
+{"labels": "Delmore Schwartz", "predict": "William T. V. V. I. Toffler"}
+{"labels": "FC Barcelona B", "predict": "C.A. Fábica Clube (SP)"}
+{"labels": "male", "predict": "male"}
+{"labels": "female", "predict": "male"}
+{"labels": "Worksop Town F.C.", "predict": "SC SC SC Heidelberg"}
+{"labels": "FC Milsami Orhei", "predict": "FC Dinamo București"}
+{"labels": "Espérance de Tunis", "predict": "U.C. 1907"}
+{"labels": "Obie Award", "predict": "Order of the White Eagle (Spain)"}
+{"labels": "Australia national association football team", "predict": "A.C.V. Porto"}
+{"labels": "Glenfield Rovers", "predict": "New Zealand national football team"}
+{"labels": "Cardiff City F.C.", "predict": "NK Mielec"}
+{"labels": "Finale Ligure", "predict": "Rome"}
+{"labels": "male", "predict": "male"}
+{"labels": "male", "predict": "male"}
+{"labels": "AS Monaco FC", "predict": "A.C. Cesena"}
+{"labels": "Sport Club Corinthians Alagoano", "predict": "A.C.C. Luigiano Calcio 1912"}
+{"labels": "Touch It", "predict": "The Bling (film)"}
+{"labels": "male", "predict": "male"}
+{"labels": "David Leavitt", "predict": "David Gerrard"}
+{"labels": "A Man Apart", "predict": "The Day of the Gnies"}
+{"labels": "PFC Slavia Sofia", "predict": "FC Dinamo București"}
+{"labels": "Germany national under-21 football team", "predict": "France national under-19 football team"}
+{"labels": "Liverpool F.C.", "predict": "Portsmouth F.C."}
+{"labels": "Irapuato FC", "predict": "Club Atlético Independiente"}
+{"labels": "Mumbai F.C.", "predict": "West Ham United F.C."}
+{"labels": "Olsztyn County", "predict": "Gdańsk County"}
+{"labels": "Gençlerbirliği S.K.", "predict": "A.C.D. Barcelona"}
+{"labels": "HNK Segesta", "predict": "FK Vojvodina"}
+{"labels": "Lijiang Sanyi Airport", "predict": "China Chinalangu International Airport"}
+{"labels": "Tokyo Verdy", "predict": "U.C. Sampdoria"}
+{"labels": "United States", "predict": "United States"}
+{"labels": "male", "predict": "male"}
+{"labels": "Aukštaitija", "predict": "Belgrade"}
+{"labels": "U.C. Sampdoria", "predict": "SC Heerenveen"}
+{"labels": "Plymouth Argyle F.C.", "predict": "Birmingham City F.C."}
+{"labels": "FC Nyva Ternopil", "predict": "FC Dynamo Kyiv"}
+{"labels": "Fort Wayne Flames", "predict": "England national under-21 football team"}
+{"labels": "Kayseri Erciyesspor", "predict": "E.C. D. C. O.C."}
+{"labels": "Marion County, Ohio", "predict": "Ohio"}
+{"labels": "Cuiabá Esporte Clube", "predict": "A.S.D. Espanyol de Barcelona"}
+{"labels": "Up in Daisy's Penthouse", "predict": "The Big Short (1998 film)"}

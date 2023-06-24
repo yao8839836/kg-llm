@@ -1,0 +1,100 @@
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "has gender", "predict": "has gender"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "acted in", "predict": "is married to"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is located in", "predict": "is located in"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is located in", "predict": "is located in"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "has won prize", "predict": "has won prize"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "has gender", "predict": "has gender"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is connected to", "predict": "is connected to"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "has gender", "predict": "has gender"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "influences", "predict": "influences"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is connected to", "predict": "is connected to"}
+{"labels": "directed", "predict": "wrote music for"}
+{"labels": "is located in", "predict": "is located in"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is located in", "predict": "is located in"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "has gender", "predict": "has gender"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "acted in", "predict": "created"}
+{"labels": "was born in", "predict": "died in"}
+{"labels": "plays for", "predict": "is affiliated to"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "acted in", "predict": "acted in"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "influences", "predict": "influences"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "has gender", "predict": "has gender"}
+{"labels": "has gender", "predict": "has gender"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "has won prize", "predict": "has won prize"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "died in", "predict": "plays for"}
+{"labels": "has gender", "predict": "has gender"}
+{"labels": "has gender", "predict": "has gender"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "created", "predict": "acted in"}
+{"labels": "has gender", "predict": "has gender"}
+{"labels": "influences", "predict": "has academic advisor"}
+{"labels": "edited", "predict": "acted in"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "is affiliated to"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is located in", "predict": "is located in"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is connected to", "predict": "is connected to"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is located in", "predict": "is located in"}
+{"labels": "has gender", "predict": "has gender"}
+{"labels": "is located in", "predict": "is located in"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "plays for", "predict": "plays for"}
+{"labels": "is located in", "predict": "is located in"}
+{"labels": "is affiliated to", "predict": "plays for"}
+{"labels": "created", "predict": "created"}
