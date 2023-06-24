@@ -1,3 +1,8 @@
+import os
+#os.system("pip install datasets")
+#os.system("pip install deepspeed")
+#os.system("pip install accelerate")
+#os.system("pip install transformers>=4.28.0")
 import sys
 import torch
 import argparse

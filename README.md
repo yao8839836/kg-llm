@@ -1,4 +1,4 @@
-# Edge MAE
+# KG-LLM
 
 The implementation of KG-LLM in our paper: 
 
