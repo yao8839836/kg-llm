@@ -24,7 +24,7 @@ pip install -r requirements_chatglm.txt
 python lora_finetune_wn11.py
 ```
 ```shell
-python lora_finetune_wn11.py
+python lora_finetune_yago_rel.py
 ```
 
 ```shell
