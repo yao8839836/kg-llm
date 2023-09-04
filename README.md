@@ -20,7 +20,7 @@ pip install -r requirements_chatglm.txt
 
 ### 1. LLaMA fine-tuning and inference examples
 
-Firstly, put LLaMA model files under models/LLaMA-HF/ and ChatGLM-6b model files under models/chatglm-6b.
+Firstly, put LLaMA model files under models/LLaMA-HF/ and ChatGLM-6b model files under models/chatglm-6b/.
 
 ```shell
 python lora_finetune_wn11.py
