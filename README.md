@@ -17,8 +17,10 @@ pip install -r requirements_chatglm.txt
 (3) The output files of our models are also in each folder of ./data, see pred_instructions_llama13b.csv and generated_predictions.txt (from ChatGLM-6B) as examples.
 
 ## How to run
- 
+
 ### 1. LLaMA fine-tuning and inference examples
+
+Firstly, put LLaMA model files under models/LLaMA-HF/ and ChatGLM-6b model files under models/chatglm-6b.
 
 ```shell
 python lora_finetune_wn11.py
