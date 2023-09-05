@@ -22,6 +22,8 @@ pip install -r requirements_chatglm.txt
 
 Firstly, put LLaMA model files under models/LLaMA-HF/ and ChatGLM-6b model files under models/chatglm-6b/.
 
+In our experiments, we utilized an A100 GPU for all LLaMA models and a V100 GPU for all ChatGLM models.
+
 ```shell
 python lora_finetune_wn11.py
 ```
