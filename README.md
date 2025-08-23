@@ -1,6 +1,8 @@
 # KG-LLM
 
-The implementation of KG-LLM in our paper.
+The implementation of KG-LLM in our paper:
+
+Liang Yao, Jiazhen Peng, Chengsheng Mao, and Yuan Luo. "Exploring large language models for knowledge graph completion." In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5. IEEE, 2025.
 
 ## Installing requirement packages
 
